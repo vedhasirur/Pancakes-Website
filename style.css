@@ -1,0 +1,40 @@
+img {
+  width: 300px;
+  height: 300px;
+}
+body {
+  text-align: center;
+  font-family: 'Monaco';
+  background: BlanchedAlmond;
+  color: black;
+  border-style: dotted;
+  border-width: thick;
+}
+ul {
+  list-style-type: square;
+  text-align: center;
+  font-size: 30px;
+}
+#Title {
+  font-family: 'Monaco';
+  font-size: 50px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+
+}
+#p {
+  font-size: 30px;
+}
+.column {
+  float: left;
+  width: 20%;
+}
+#button {
+  font-family: 'Monaco';
+  font-size: 10px;
+  background-color:black;
+  color: white;
+
+}
